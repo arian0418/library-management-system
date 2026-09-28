@@ -11,7 +11,7 @@ A JavaFX desktop application for managing a small library. The project supports 
 - Search for books by author
 - Display the full library collection
 - Save and reload library data between sessions
-- Display local book-cover images by ISBN
+- Display local book cover images by ISBN
 - JavaFX graphical user interface
 
 ## Technologies
@@ -21,7 +21,7 @@ A JavaFX desktop application for managing a small library. The project supports 
 - Maven
 - Java Collections
 - File I/O
-- Object-oriented programming
+- Programming with objects
 
 ## Project Structure
 
@@ -53,4 +53,4 @@ Place a JPG inside the `images` directory using the book's ISBN as its filename,
 
 ## Concepts Demonstrated
 
-Java classes and encapsulation, collections, file persistence, input validation, event-driven programming, JavaFX UI development, and separation of application logic from the interface.
+Java classes and encapsulation, collections, file persistence, input validation, programming around user events, JavaFX UI development, and separation of application logic from the interface.
